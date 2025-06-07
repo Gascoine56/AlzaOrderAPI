@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\paymentprocessor\\paymentprocessorqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\paymentprocessor\\paymentprocessorqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\enums\\orderstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\enums\\orderstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|c:\\users\\palo\\desktop\\alzaorderapi\\alzaorderapi\\alzaorderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84AB65E-1F81-4118-AFB3-D7DD1FEAF5A2}|AlzaOrderAPI\\AlzaOrderAPI.csproj|solutionrelative:alzaorderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Program.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:22:12.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessorQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\PaymentProcessor\\PaymentProcessorQueue.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\PaymentProcessor\\PaymentProcessorQueue.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\PaymentProcessor\\PaymentProcessorQueue.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\PaymentProcessor\\PaymentProcessorQueue.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:22:08.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Models\\Order.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStateEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Enums\\OrderStateEnum.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Enums\\OrderStateEnum.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Enums\\OrderStateEnum.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Enums\\OrderStateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:52.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\DTO\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Data\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:44.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AlzaOrderAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Palo\\Desktop\\AlzaOrderAPI\\AlzaOrderAPI\\AlzaOrderAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AlzaOrderAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:21:02.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

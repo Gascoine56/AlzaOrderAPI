@@ -1,0 +1,6 @@
+@AlzaOrderAPI_HostAddress = http://localhost:5137
+
+GET {{AlzaOrderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
